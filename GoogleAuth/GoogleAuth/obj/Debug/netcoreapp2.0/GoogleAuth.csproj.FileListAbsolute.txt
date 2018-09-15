@@ -1,0 +1,12 @@
+C:\Users\Chengwuliang\Desktop\w\test\GoogleAuth\GoogleAuth\bin\Debug\netcoreapp2.0\GoogleAuth.deps.json
+C:\Users\Chengwuliang\Desktop\w\test\GoogleAuth\GoogleAuth\bin\Debug\netcoreapp2.0\GoogleAuth.runtimeconfig.json
+C:\Users\Chengwuliang\Desktop\w\test\GoogleAuth\GoogleAuth\bin\Debug\netcoreapp2.0\GoogleAuth.runtimeconfig.dev.json
+C:\Users\Chengwuliang\Desktop\w\test\GoogleAuth\GoogleAuth\bin\Debug\netcoreapp2.0\GoogleAuth.dll
+C:\Users\Chengwuliang\Desktop\w\test\GoogleAuth\GoogleAuth\bin\Debug\netcoreapp2.0\GoogleAuth.pdb
+C:\Users\Chengwuliang\Desktop\w\test\GoogleAuth\GoogleAuth\obj\Debug\netcoreapp2.0\GoogleAuth.csprojResolveAssemblyReference.cache
+C:\Users\Chengwuliang\Desktop\w\test\GoogleAuth\GoogleAuth\obj\Debug\netcoreapp2.0\GoogleAuth.csproj.CoreCompileInputs.cache
+C:\Users\Chengwuliang\Desktop\w\test\GoogleAuth\GoogleAuth\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Chengwuliang\Desktop\w\test\GoogleAuth\GoogleAuth\obj\Debug\netcoreapp2.0\GoogleAuth.AssemblyInfoInputs.cache
+C:\Users\Chengwuliang\Desktop\w\test\GoogleAuth\GoogleAuth\obj\Debug\netcoreapp2.0\GoogleAuth.AssemblyInfo.cs
+C:\Users\Chengwuliang\Desktop\w\test\GoogleAuth\GoogleAuth\obj\Debug\netcoreapp2.0\GoogleAuth.dll
+C:\Users\Chengwuliang\Desktop\w\test\GoogleAuth\GoogleAuth\obj\Debug\netcoreapp2.0\GoogleAuth.pdb
