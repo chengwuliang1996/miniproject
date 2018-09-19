@@ -9,6 +9,6 @@ In the "GoogleAuth" folder is our full project and a solution file. Please open 
 Visual Studio and debug or simply open "Index.cshtml"(/GoogleAuth/Views/Home) in a browser in run our 
 application.
 
-##Individual Contribution
+## Individual Contribution
 Wuliang Cheng: Login function and the connection between each pages.
 Laura Morgan: Reading the temperature and generating the diagram.
