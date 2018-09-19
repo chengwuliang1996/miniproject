@@ -65,7 +65,8 @@ namespace GoogleAuth.Controllers
                 if (result.Succeeded)
                 {
                     _logger.LogInformation("User logged in.");
-                    return RedirectToLocal(returnUrl);
+                    //return RedirectToLocal(returnUrl);
+                    return RedirectToAction(nameof(ChartsController.Line), "Charts");
                 }
                 if (result.RequiresTwoFactor)
                 {
@@ -232,7 +233,9 @@ namespace GoogleAuth.Controllers
 
                     await _signInManager.SignInAsync(user, isPersistent: false);
                     _logger.LogInformation("User created a new account with password.");
-                    return RedirectToLocal(returnUrl);
+                    //return RedirectToLocal(returnUrl);
+
+                    return RedirectToAction(nameof(ChartsController.Line), "Charts");
                 }
                 AddErrors(result);
             }

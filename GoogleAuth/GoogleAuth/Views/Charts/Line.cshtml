@@ -1,11 +1,10 @@
-﻿
-    @model List<SimpleReportViewModel> 
-    @{
-        var YValues = Newtonsoft.Json.JsonConvert.SerializeObject(Model.Select(x => x.Temp).ToList());
-        var YValues2 = Newtonsoft.Json.JsonConvert.SerializeObject(Model.Select(x => x.Humidity).ToList());
-        var XLabels = Newtonsoft.Json.JsonConvert.SerializeObject(Model.Select(x => x.Day).ToList());
-        ViewData["Title"] = "Line Chart";
-    } 
+﻿@model List<SimpleReportViewModel> 
+@{
+    var YValues = Newtonsoft.Json.JsonConvert.SerializeObject(Model.Select(x => x.Temp).ToList());
+    var YValues2 = Newtonsoft.Json.JsonConvert.SerializeObject(Model.Select(x => x.Humidity).ToList());
+    var XLabels = Newtonsoft.Json.JsonConvert.SerializeObject(Model.Select(x => x.Day).ToList());
+    ViewData["Title"] = "Line Chart";
+} 
 
 <!DOCTYPE html>
 
