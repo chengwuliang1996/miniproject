@@ -6,8 +6,7 @@ Authors: Wuliang Cheng, Laura Morgan
 
 We choose to make a asp.net web core application for this miniproject by Visual Studio 2017. 
 In the "GoogleAuth" folder is our full project and a solution file. Please open the solution in 
-Visual Studio and debug or simply open "Index.cshtml"(/GoogleAuth/Views/Home) in a browser in run our 
-application.
+Visual Studio and debug to test our application.
 
 ## Individual Contribution
 Wuliang Cheng: Login function and the connection between each pages.
